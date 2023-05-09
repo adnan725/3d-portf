@@ -7,18 +7,19 @@ import {
   typescript,
   html,
   css,
+  sass,
   reactjs,
   redux,
   tailwind,
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
+  storybook,
+  framer,
+  aws,
   carrent,
   jobit,
   tripguide,
-  threejs,
   cgi,
 } from "../assets";
 
@@ -74,10 +75,6 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Mongoose",
-    icon: figma,
-  },
-  {
     name: "HTML 5",
     icon: html,
   },
@@ -87,7 +84,7 @@ const technologies = [
   },
   {
     name: "Sass (SCSS)",
-    icon: threejs,
+    icon: sass,
   },
   {
     name: "Tailwind CSS",
@@ -99,15 +96,15 @@ const technologies = [
   },
   {
     name: "AWS Cloud Practitioner",
-    icon: docker,
+    icon: aws,
   },
   {
     name: "Storybook",
-    icon: docker,
+    icon: storybook,
   },
   {
     name: "Framer motion",
-    icon: docker,
+    icon: framer,
   },
 ];
 

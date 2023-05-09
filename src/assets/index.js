@@ -19,7 +19,10 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import sass from "./tech/sass.png";
+import aws from "./tech/aws.png";
+import storybook from "./tech/storybook.png";
+import framer from "./tech/framer.png";
 
 import cgi from "./company/cgi.png";
 
@@ -48,9 +51,12 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
+  sass,
   carrent,
   jobit,
   tripguide,
   cgi,
+  aws,
+  storybook,
+  framer,
 };
