@@ -3,7 +3,6 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -23,6 +22,8 @@ import sass from "./tech/sass.png";
 import aws from "./tech/aws.png";
 import storybook from "./tech/storybook.png";
 import framer from "./tech/framer.png";
+import linkedin from "./tech/linkedin.png";
+import github from "./tech/github.png";
 
 import cgi from "./company/cgi.png";
 
@@ -36,7 +37,6 @@ export {
   creator,
   mobile,
   web,
-  github,
   menu,
   close,
   css,
@@ -59,4 +59,6 @@ export {
   aws,
   storybook,
   framer,
+  linkedin,
+  github,
 };

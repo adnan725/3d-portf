@@ -21,6 +21,8 @@ import {
   jobit,
   tripguide,
   cgi,
+  linkedin,
+  github,
 } from "../assets";
 
 export const navLinks = [
@@ -75,6 +77,10 @@ const technologies = [
     icon: mongodb,
   },
   {
+    name: "AWS Cloud Practitioner",
+    icon: aws,
+  },
+  {
     name: "HTML 5",
     icon: html,
   },
@@ -93,10 +99,6 @@ const technologies = [
   {
     name: "git",
     icon: git,
-  },
-  {
-    name: "AWS Cloud Practitioner",
-    icon: aws,
   },
   {
     name: "Storybook",
@@ -182,7 +184,6 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
   },
   {
     name: "Job IT",

@@ -24,7 +24,6 @@ function App() {
             <About />
             <Experience />
             <Tech />
-            <Works />
             <Feedbacks />
             <div className="relative z-10">
               <Contact />
