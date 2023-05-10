@@ -21,8 +21,6 @@ import {
   jobit,
   tripguide,
   cgi,
-  linkedin,
-  github,
 } from "../assets";
 
 export const navLinks = [

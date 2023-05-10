@@ -131,21 +131,6 @@ const Contact = () => {
           <EarthCanvas />
         </motion.div>
       </div>
-
-      <div className="w-full mt-12 h-8 flex justify-center items-center gap-8 bg-black p-12 rounded-md text-lg opacity-50">
-        <a
-          href="https://www.linkedin.com/in/adnan-ali-5b9736111/"
-          className="h-full flex justify-center items-center cursor-pointer"
-        >
-          Linkedin
-        </a>
-        <a
-          href="https://github.com/adnan725"
-          className="h-full flex justify-center items-center cursor-pointer"
-        >
-          Github
-        </a>
-      </div>
     </>
   );
 };
